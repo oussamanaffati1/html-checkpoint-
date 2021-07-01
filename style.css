@@ -1,0 +1,27 @@
+* {
+  background-color: bisque;
+}
+
+nav {
+  background-color: blue;
+  display: inline;
+  height: 100px;
+  width: 100px;
+}
+
+h1 {
+  text-align: center;
+  color: rgba(26, 175, 180, 0.726);
+  font-family: "Tangerine", serif;
+}
+
+.img1 {
+  height: 350px;
+  width: 400px;
+  padding: 100px;
+  display: inline-block;
+}
+
+hr {
+  height: 10px;
+}
